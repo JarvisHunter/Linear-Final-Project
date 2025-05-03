@@ -13,12 +13,18 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "bootstrap": "^5.3.5",
     "browser-image-compression": "^2.0.2",
+    "canvas": "^3.1.0",
+    "get-pixels": "^3.3.3",
     "image-conversion": "^2.1.1",
+    "ndarray": "^1.0.19",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.9",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "save-pixels": "^2.3.6",
+    "svd-js": "^1.1.1"
   },
   "devDependencies": {
+    "@types/get-pixels": "^3.3.4",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",

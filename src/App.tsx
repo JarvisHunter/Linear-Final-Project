@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container my-4 text-center">
       <Heading />
-      <HelpModal />
+      {/* <HelpModal /> */}
       <Compress />
     </div>
   );
